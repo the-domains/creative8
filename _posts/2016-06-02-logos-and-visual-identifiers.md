@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Logos & Visual Identifiers'
-datePublished: '2016-06-02T14:37:00.746Z'
-dateModified: '2016-06-02T14:36:38.944Z'
+datePublished: '2016-06-02T15:21:32.343Z'
+dateModified: '2016-06-02T15:21:07.748Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-02-logos-and-visual-identifiers.md
+starred: false
 url: logos-and-visual-identifiers/index.html
 _type: Article
 
