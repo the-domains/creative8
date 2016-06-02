@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[creative8]]></title>
-        <description><![CDATA[creative8]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Hermano Talastas]]></title>
+        <description><![CDATA[Hermano Talastas]]></description>
+        <link>https://thegrid.ai/creative8/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 02 Jun 2016 14:37:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 02 Jun 2016 15:21:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/creative8/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2be48323-88a7-483a-8e7a-1821b6d16569.jpg">]]></description>
-            <link>undefinedlogos-and-visual-identifiers/index.html</link>
+            <link>https://thegrid.ai/creative8/logos-and-visual-identifiers/index.html</link>
             <guid isPermaLink="false">4a555949-dbb2-45c3-8885-82797d928ff6</guid>
-            <pubDate>Thu, 02 Jun 2016 14:37:00 GMT</pubDate>
+            <pubDate>Thu, 02 Jun 2016 15:21:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
