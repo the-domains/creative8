@@ -5,23 +5,22 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Logos & Visual Identifiers'
-datePublished: '2016-06-02T15:21:32.343Z'
-dateModified: '2016-06-02T15:21:07.748Z'
+datePublished: '2016-06-02T15:23:36.461Z'
+dateModified: '2016-06-02T15:23:28.141Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-02-logos-and-visual-identifiers.md
 authors: []
 publisher: null
-sourcePath: _posts/2016-06-02-logos-and-visual-identifiers.md
 starred: false
 url: logos-and-visual-identifiers/index.html
 _type: Article
 
 ---
 Logos & Visual Identifiers
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2be48323-88a7-483a-8e7a-1821b6d16569.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67b279dd-4874-4a93-9b1d-722b6ef3609e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb39b29c-380d-4ac4-8829-50c691babefa.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fac4217a-f304-4241-81b2-c9d349358731.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4ff35bcf-7c1a-4c1b-8a35-8682c66074f0.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3647c7de-6759-410e-9557-058708ab86eb.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2be48323-88a7-483a-8e7a-1821b6d16569.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/26ee0945-349b-4aa6-97d4-12dffc99909c.jpg)
