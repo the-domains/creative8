@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Logos & Visual Identifiers'
-datePublished: '2016-06-02T15:23:36.461Z'
-dateModified: '2016-06-02T15:23:28.141Z'
+datePublished: '2016-06-02T15:24:27.439Z'
+dateModified: '2016-06-02T15:23:42.097Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-02-logos-and-visual-identifiers.md
